@@ -8,10 +8,10 @@ The idea is to gain great experience in dealing with different architectures, I 
 - [x] **MVP**
 - [x] **MVVM-C**
 - [x] **MVVM-C + RxSwift**
+- [x] **MVVM-C + Combine**
 - [x] **VIPER**
 
 ## To implement in the future
 - **MVC**
 - **Clean Architecture**
-- **MVVM-C + Combine**
 - **VIPER + RxSwift**
